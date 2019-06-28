@@ -2,6 +2,7 @@ class: center, middle, blue
 # Deploy Mattermost on AKS
 
 ---
+exclude: true
 ### whoami
 
 .left-small[
